@@ -1,11 +1,5 @@
 # Product-Sales-Forecasting-Non-Time-Series-Analysis
 
-Here’s a detailed `README.md` file that explains all the steps from setting up the project to running it, including installation, running the app, and a summary of how the app works.
-
----
-
-# Product Sales Forecasting App
-
 This repository contains a **Streamlit**-based web application that predicts product sales using **time series** and **non-time series** methods. The app provides a forecasting solution for the next 15 weeks and analyzes product sales data using **Prophet** for time series forecasting and **Decision Trees** for non-time series predictions.
 
 ## Features:
@@ -133,11 +127,4 @@ Here’s a breakdown of the project files and structure:
 2. Integrate advanced models like **XGBoost** for more complex non-time series forecasting.
 3. Improve user experience by allowing users to adjust model parameters directly in the app.
 
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
