@@ -19,15 +19,6 @@ This repository contains a **Streamlit**-based web application that predicts pro
 
 ---
 
-## Demo Video
-
-Watch the demo of the Product Sales Forecasting App below:
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-
----
-
 ## Installation
 
 Follow these steps to set up the project on your local machine:
